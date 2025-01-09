@@ -1,4 +1,3 @@
-
 def switch_workstate():
     workspace()
     return
